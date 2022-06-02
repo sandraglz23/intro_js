@@ -1,0 +1,7 @@
+var radio=5.3
+
+const pi=3.1416
+
+var área=pi*(radio)**2
+
+console.log(área)

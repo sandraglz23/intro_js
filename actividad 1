@@ -1,0 +1,5 @@
+let num = prompt("ingrese un numero");
+
+let resultado = num * 2;
+
+alert (" El resultado es" + resultado);
